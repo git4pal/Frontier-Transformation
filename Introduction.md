@@ -19,3 +19,6 @@
 - Multi Model: The best model for every task and workflow
 - Agent Platform: Ecosystem of agents with agent building tools for everyone
 - Security & Management: Built-in security, management, and governance
+
+## Build vs Buy
+![Build vs Buy](/images/build-vs-buy.png)
